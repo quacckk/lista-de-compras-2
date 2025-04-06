@@ -3,3 +3,5 @@ cenoura
 farinha
 ovo
 óleo
+chocolate
+leite condensado
