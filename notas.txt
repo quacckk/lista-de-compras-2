@@ -2,3 +2,4 @@ Bolo de cenoura
 cenoura
 farinha
 ovo
+óleo
